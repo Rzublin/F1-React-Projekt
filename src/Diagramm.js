@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Chart from "chart.js";
 
 //Das ist ein Class Component
 

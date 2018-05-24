@@ -1,8 +1,9 @@
 {
-  "name": "react-ukszpi",
+  "name": "f1-top-10",
   "description": "",
   "homepage": "https://stackblitz.com/edit/react-ukszpi",
   "dependencies": {
+    "chart.js": "^2.7.2",
     "react": "16.1.1",
     "react-dom": "16.1.1",
     "react-scripts": "1.0.10"
