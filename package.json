@@ -1,7 +1,7 @@
 {
   "name": "f1-top-10",
   "description": "",
-  "homepage": "http://Rzublin.github.io/F1-React-Projekt",
+  "homepage": "http://Rzublin.github.io/F1-React-Projekt/",
   "dependencies": {
     "chart.js": "^2.7.2",
     "react": "16.1.1",
